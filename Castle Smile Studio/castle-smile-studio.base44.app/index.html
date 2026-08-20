@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+  <meta charset="utf-8"/>
+  <link href="../media.base44.com/images/public/6a86cdda4b9e5610501075be/896f39083_logo.png" rel="icon" type="image/svg+xml"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="api/apps/manifests/6a86cdda4b9e5610501075be/manifest.json" rel="manifest"/>
+  <meta content="Castle Hills Dentistry — premium, gentle dental care in Lewisville, TX. Cosmetic, restorative, and family dentistry by Dr. Daniel. Same-day emergencies welcome. Request your appointment today." name="description"/>
+  <meta content="Castle Hills Dentistry | Premium Dental Care in Lewisville, TX" property="og:title"/>
+  <meta content="Gentle, modern dentistry for the entire family in Castle Hills of Lewisville. Cosmetic, restorative, implants, and emergency care by Dr. Daniel." property="og:description"/>
+  <meta content="website" property="og:type"/>
+  <link href="https://fonts.googleapis.com/" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&amp;family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+  <title>
+   Castle Hills Dentistry | Premium Dental Care in Lewisville, TX
+  </title>
+  <script crossorigin="" src="assets/index-C4yGhPd1.js" type="module">
+  </script>
+  <link crossorigin="" href="assets/index-WYFW4i8i.css" rel="stylesheet"/>
+  <script type="module">
+   if (window.self === window.top) {
+  let lastPath = "";
+  function getPageNameFromPath(path) {
+    const segments = path.split("index.html").filter(Boolean);
+    return segments[0] || null;
+  }
+  function trackPageView() {
+    const path = window.location.pathname;
+    if (path === lastPath) return;
+    lastPath = path;
+    const pageName = getPageNameFromPath(path) || "home";
+    const appId = "6a86cdda4b9e5610501075be";
+    if (!appId) return;
+    fetch(`/api/app-logs/${appId}/log-user-in-app/${pageName}`, {
+      method: "POST",
+    }).catch(() => {});
+  }
+  const originalPushState = history.pushState.bind(history);
+  history.pushState = function (...args) {
+    originalPushState(...args);
+    trackPageView();
+  };
+  const originalReplaceState = history.replaceState.bind(history);
+  history.replaceState = function (...args) {
+    originalReplaceState(...args);
+    trackPageView();
+  };
+  window.addEventListener("popstate", trackPageView);
+  trackPageView();
+}
+  </script>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="Castle Hills Dentistry Experience" name="apple-mobile-web-app-title"/>
+
+  </script>
+ </head>
+ <body>
+  <div id="root">
+  </div>
+ </body>
+
+</html>
