@@ -12,7 +12,8 @@ A modern, responsive dental practice website built with React, Tailwind CSS, and
 </div>
 
 
-🎯 Overview
+🎯Overview
+
 Smile Dental Care is a fully responsive, single-page application designed for a modern dental practice. It showcases the practice's services, patient testimonials, and provides an easy way for patients to book appointments.
 
 This project demonstrates:
@@ -28,7 +29,7 @@ Contact forms with validation
 SEO-optimized meta tags
 
 
-✨ Features
+✨Features
 
 ✅ Responsive Design — Looks great on desktop, tablet, and mobile
 
@@ -51,6 +52,7 @@ SEO-optimized meta tags
 🛠️ Tech Stack
 
 Technology	Description
+
 React 18	Frontend framework
 Tailwind CSS	Utility-first styling	Backend platform & hosting
 Framer Motion	Animations & transitions
@@ -61,9 +63,10 @@ Vite	Build tool
 Prerequisites
 Node.js (v16 or higher)
 
+📞Contact
 
-📞 Contact
 Website: https://smile-dental-care.com
+
 Email: bareeraaftab123@gmail.com
 
 
