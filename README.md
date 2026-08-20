@@ -1,18 +1,15 @@
 🦷 Smile Dental Care
 A modern, responsive dental practice website built with React, Tailwind CSS, and Base44.
-https://img.shields.io/badge/demo-live-green?style=for-the-badge&logo=vercel
-https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react
-https://img.shields.io/badge/Tailwind-3-38B2AC?style=for-the-badge&logo=tailwind-css
-https://img.shields.io/badge/license-MIT-orange?style=for-the-badge
 
-📋 Table of Contents
-Overview
+<div align="center">
 
-Live Demo
+[![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Features
-
-Tech Stack
+</div>
 
 
 🎯 Overview
@@ -30,10 +27,9 @@ Contact forms with validation
 
 SEO-optimized meta tags
 
-🖥️ Live Demo
-🔗 View Live Demo
 
 ✨ Features
+
 ✅ Responsive Design — Looks great on desktop, tablet, and mobile
 
 ✅ Appointment Booking — Integrated contact form for patient requests
@@ -53,6 +49,7 @@ SEO-optimized meta tags
 ✅ Accessible — ARIA labels and keyboard navigation
 
 🛠️ Tech Stack
+
 Technology	Description
 React 18	Frontend framework
 Tailwind CSS	Utility-first styling	Backend platform & hosting
